@@ -9,7 +9,7 @@ Things you may want to cover:
 
 * Rails 5.0.0
 
-* System dependencies
+* System dependencies None 
 
 * Configuration
 
